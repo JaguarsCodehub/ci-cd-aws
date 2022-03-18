@@ -1,0 +1,8 @@
+{
+  "name": "ci-cd-aws",
+  "version": "0.0.1",
+  "description": "CI/CD for AWS",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
